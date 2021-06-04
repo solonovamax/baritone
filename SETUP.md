@@ -3,7 +3,7 @@
 ## Prebuilt official releases
 These releases are not always completely up to date with latest features, and are only released from `master`. (so if you want `backfill-2` branch for example, you'll have to build it yourself)
 
-Link to the releases page: [Releases](https://github.com/CodeF53/baritone/1.16.5/releases)
+Link to the releases page: [Releases](https://github.com/CodeF53/baritone/releases)
 
 ## Build it yourself
 - Clone or download Baritone
